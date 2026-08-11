@@ -18,7 +18,7 @@ An enterprise-grade AI Security Reverse Proxy built to protect Large Language Mo
 
 ## Core Technology Stack
 
-* Core Engine: Python 3.10+
+* Core Engine: Python 3.14
 * Framework: FastAPI (High-performance execution layer)
 * Data Integrity: Pydantic v2 (Strict payload data validation)
 * Upstream SDK: Official Groq Client Pipeline
